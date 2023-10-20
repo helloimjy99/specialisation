@@ -1,0 +1,17 @@
+com\tmsgrp3\backend\DatabaseConnection.class
+com\tmsgrp3\backend\repository\BackendRepository.class
+com\tmsgrp3\backend\security\filter\AuthFilter.class
+com\tmsgrp3\backend\security\manager\CustomAuthManager.class
+com\tmsgrp3\backend\controller\BackendController.class
+com\tmsgrp3\backend\service\BackendService$2.class
+com\tmsgrp3\backend\security\filter\JWTAuthFilter.class
+com\tmsgrp3\backend\BackendApplication.class
+com\tmsgrp3\backend\EmailHandlerService.class
+com\tmsgrp3\backend\entities\TMSUser.class
+com\tmsgrp3\backend\exceptions\BadCredentialsException.class
+com\tmsgrp3\backend\ConfigProperties.class
+com\tmsgrp3\backend\security\filter\ExceptionHandlerFilter.class
+com\tmsgrp3\backend\security\SecurityConfig.class
+com\tmsgrp3\backend\service\BackendService.class
+com\tmsgrp3\backend\exceptions\EntityNotFoundException.class
+com\tmsgrp3\backend\service\BackendService$1.class

@@ -1,0 +1,15 @@
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\security\manager\CustomAuthManager.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\exceptions\BadCredentialsException.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\repository\BackendRepository.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\security\filter\ExceptionHandlerFilter.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\controller\BackendController.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\DatabaseConnection.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\security\filter\AuthFilter.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\security\filter\JWTAuthFilter.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\BackendApplication.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\ConfigProperties.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\service\BackendService.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\EmailHandlerService.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\security\SecurityConfig.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\entities\TMSUser.java
+C:\Users\commonuser\Desktop\Specialisation\be_jpb_repo\src\src\main\java\com\tmsgrp3\backend\exceptions\EntityNotFoundException.java
